@@ -1,0 +1,9 @@
+Minimum system requirements:
+
+1. Windows 7 or later.
+
+2. RAM 2GB or more.
+
+3. Processor celeron.
+
+Above requirements are sufficient if the pc is not loaded with software that consume system resources.
